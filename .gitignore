@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Output directories
+dist/
+build/
+
+# Local environment files
+.env
+
+# IDE files
+.vscode/
+
+# Debugging files
+*.debug
+
+# Operating system files
+.DS_Store
+.DS_Store?
+*.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
